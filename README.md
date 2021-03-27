@@ -1,4 +1,4 @@
-# OnlineArticlesSharesPrediction
+# Online Articles Shares Prediction
 ___
 
 The aim of this project is to benchmark a set of machine learning regression models to extract the best suited to predict the number of online articles shares.
